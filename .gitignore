@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 /iris_data.csv
+=======
+"venv/" 
+"*.pyc" 
+"data/*.csv" 
+>>>>>>> c3c8e4891f0f1db506c7e52d8da218b94ab4c22e
